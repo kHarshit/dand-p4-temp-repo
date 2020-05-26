@@ -18,7 +18,7 @@ The **tasks** in this project are as follows:
 
 ## Files
 
-1. [`wrangle_act.ipynb`](https://nbviewer.jupyter.org/github/kHarshit/udacity-nanodegree-projects/blob/master/DAND_data_analyst_nanodegree/p4_wrangle_and_analyze_data/wrangle_act.ipynb): Data wrangling and analysis
+1. [`wrangle_act.ipynb`](https://nbviewer.jupyter.org/github/kHarshit/dand-p4-temp-repo/blob/master/wrangle_act.ipynb): Data wrangling and analysis
 2. [`wrangle_report.md`](wrangle_report.md) and [`wrangle_report.pdf`](wrangle_report.pdf): Documentation of data wrangling
 3. [`act_report.md`](act_report.md) and [`act_report.pdf`](act_report.pdf): Documentation of analysis and insights
 
